@@ -15,7 +15,7 @@ const products = [
   },
   {
     name: 'Sujata Dynamix 900W Heavy Duty Mixer Grinder with 3 Jars',
-    image: 'https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&auto=format&fit=crop&q=80',
     description: 'Most powerful 900W motor with double ball bearings for continuous 90-minute grinding. Unbreakable polycarbonate transparent dome and jar lids.',
     brand: 'Sujata',
     category: 'Home Appliances',
@@ -26,7 +26,7 @@ const products = [
   },
   {
     name: 'Philips HL7756/00 750W Mixer Grinder with 3 Stainless Steel Jars',
-    image: 'https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=800&auto=format&fit=crop&q=80',
     description: 'Advanced air ventilation system prevents motor heating. Specially designed blades for tough Indian ingredients like dry masalas and coconut chutneys.',
     brand: 'Philips',
     category: 'Home Appliances',
@@ -48,7 +48,7 @@ const products = [
   },
   {
     name: 'Hawkins Classic 5L Aluminium Pressure Cooker',
-    image: 'https://images.unsplash.com/photo-1584990347449-399778c187f5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?w=800&auto=format&fit=crop&q=80',
     description: 'The quintessential Indian family pressure cooker with "goof-proof" pressure-locked safety lid. Ideal for cooking rice, rajma, and biryani for 5-7 people.',
     brand: 'Hawkins',
     category: 'Home Appliances',
@@ -59,7 +59,7 @@ const products = [
   },
   {
     name: 'Prestige Deluxe Alpha Stainless Steel 3L Outer Lid Pressure Cooker',
-    image: 'https://images.unsplash.com/photo-1584990347449-399778c187f5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1585672840639-6e3e5669b329?w=800&auto=format&fit=crop&q=80',
     description: 'Alpha induction base with durable 304 surgical-grade stainless steel body. Equipped with controlled gasket release system for maximum safety.',
     brand: 'Prestige',
     category: 'Home Appliances',
@@ -81,7 +81,7 @@ const products = [
   },
   {
     name: 'Prestige PIC 20 1600W Induction Cooktop with Automatic Voltage Regulator',
-    image: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1616401784845-180882ba9ba8?w=800&auto=format&fit=crop&q=80',
     description: 'Feather-touch buttons with Indian preset cooking options and automatic keep-warm function. Built-in dual heat sensors protect against voltage fluctuations.',
     brand: 'Prestige',
     category: 'Home Appliances',
@@ -103,7 +103,7 @@ const products = [
   },
   {
     name: 'Butterfly Wave 1.5L Rapid Boil Stainless Steel Electric Kettle',
-    image: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=800&auto=format&fit=crop&q=80',
     description: '1500W rapid boil heating element with auto cut-off safety feature, locking lid, and cool-touch ergonomic handle.',
     brand: 'Butterfly',
     category: 'Home Appliances',
@@ -125,7 +125,7 @@ const products = [
   },
   {
     name: 'Morphy Richards 2-Slice Pop-Up Bread Toaster (650W)',
-    image: 'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&auto=format&fit=crop&q=80',
     description: 'Variable 7-browning setting with removable crumb tray, auto pop-up, and anti-slip feet for everyday breakfast toast.',
     brand: 'Morphy Richards',
     category: 'Home Appliances',
@@ -147,7 +147,7 @@ const products = [
   },
   {
     name: 'Philips GC1905 1440W Steam Iron with Continuous Spray & Steam',
-    image: 'https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=800&auto=format&fit=crop&q=80',
     description: 'Fast crease removal with continuous 13g/min steam output and fine spray mist. Large water tank hole for easy filling and emptying.',
     brand: 'Philips',
     category: 'Home Appliances',
@@ -169,7 +169,7 @@ const products = [
   },
   {
     name: 'Aquaguard Marvel NXT 6.2L Active Copper Water Purifier',
-    image: 'https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=800&auto=format&fit=crop&q=80',
     description: 'Patented Active Copper and Zinc Booster technology infuses essential goodness into purified water. Multi-stage RO+UV filtration.',
     brand: 'Aquaguard',
     category: 'Home Appliances',
@@ -191,7 +191,7 @@ const products = [
   },
   {
     name: 'Crompton Hill Briz 1200mm High-Speed Ceiling Fan (Brown)',
-    image: 'https://images.unsplash.com/photo-1580481077195-c3f995f5d8f6?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1615873968403-89e068629265?w=800&auto=format&fit=crop&q=80',
     description: '100% copper winding motor delivering 370 RPM and 205 CMM air delivery. Powder-coated aluminium blades resist corrosion and dust accumulation.',
     brand: 'Crompton',
     category: 'Home Appliances',
@@ -202,7 +202,7 @@ const products = [
   },
   {
     name: 'Havells 25L Glaze Storage Geyser / Water Heater',
-    image: 'https://images.unsplash.com/photo-1584990347449-399778c187f5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1585338107529-13afc5f02586?w=800&auto=format&fit=crop&q=80',
     description: 'Feroglas technology inner container with heavy-duty incoloy glass-coated heating element. 8 bar pressure suitable for high-rise apartments.',
     brand: 'Havells',
     category: 'Home Appliances',
@@ -213,7 +213,7 @@ const products = [
   },
   {
     name: 'Bajaj Majesty 3L Instant Water Geyser (3kW)',
-    image: 'https://images.unsplash.com/photo-1584990347449-399778c187f5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=800&auto=format&fit=crop&q=80',
     description: 'Instant hot water for kitchen sink and morning showers. Rust-proof engineered thermoplastic body with neon heating indicators.',
     brand: 'Bajaj',
     category: 'Home Appliances',
@@ -224,7 +224,7 @@ const products = [
   },
   {
     name: 'Wonderchef Nutri-Blend 400W Personal Smoothie & Chutney Blender',
-    image: 'https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=800&auto=format&fit=crop&q=80',
     description: 'Super-fast 22,000 RPM motor extracts micronutrients from fruits, nuts, and leafy greens. Includes two unbreakable jars with blending and grinding blades.',
     brand: 'Wonderchef',
     category: 'Home Appliances',
@@ -235,7 +235,7 @@ const products = [
   },
   {
     name: 'Prestige Omega Deluxe Granite 3-Piece Non-Stick Cookware Set',
-    image: 'https://images.unsplash.com/photo-1584990347449-399778c187f5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&auto=format&fit=crop&q=80',
     description: 'Includes 1 Kadai with Glass Lid (24cm), 1 Fry Pan (24cm), and 1 Omni Tawa (25cm). 5-layer durable granite spatter-coat finish, induction & gas compatible.',
     brand: 'Prestige',
     category: 'Home Appliances',
@@ -246,7 +246,7 @@ const products = [
   },
   {
     name: 'Pigeon Special Aluminium 280mm Flat Dosa Tawa',
-    image: 'https://images.unsplash.com/photo-1584990347449-399778c187f5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800&auto=format&fit=crop&q=80',
     description: 'Wide flat surface with triple-layer Greblon stone non-stick coating. Perfect for crispy restaurant-style paper dosas, uttapams, and parathas with minimal oil.',
     brand: 'Pigeon',
     category: 'Home Appliances',
@@ -279,7 +279,7 @@ const products = [
   },
   {
     name: 'Eureka Forbes Quick Clean DX 1200W Dry Vacuum Cleaner',
-    image: 'https://images.unsplash.com/photo-1580481077195-c3f995f5d8f6?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&auto=format&fit=crop&q=80',
     description: 'Powerful 1200W suction motor with automatic cord winder and dust bag full indicator. Comes with 6 versatile cleaning accessories for sofa, carpets, and corners.',
     brand: 'Eureka Forbes',
     category: 'Home Appliances',
@@ -290,7 +290,7 @@ const products = [
   },
   {
     name: 'Morphy Richards 30L Convection Microwave Oven (30 MCGR)',
-    image: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?w=800&auto=format&fit=crop&q=80',
     description: 'All-in-one baking, grilling, reheating, and defrosting with 200 auto-cook Indian menus. Stainless steel cavity ensures uniform reflection of microwaves.',
     brand: 'Morphy Richards',
     category: 'Home Appliances',
@@ -301,7 +301,7 @@ const products = [
   },
   {
     name: 'IFB 20L Solo Microwave Oven with 5 Power Levels',
-    image: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1585659722983-3a675dabf23d?w=800&auto=format&fit=crop&q=80',
     description: 'Compact microwave ideal for everyday Indian heating, reheating chai, melting ghee, cooking instant noodles, and defrosting frozen foods quickly.',
     brand: 'IFB',
     category: 'Home Appliances',
@@ -312,7 +312,7 @@ const products = [
   },
   {
     name: 'Bajaj Flora 1500W Shock-Proof Immersion Water Heater Rod',
-    image: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=800&auto=format&fit=crop&q=80',
     description: 'Nickel-plated hairpin tubular heating element with water level indicator and heat-resistant plastic handle for winter bath water heating.',
     brand: 'Bajaj',
     category: 'Home Appliances',
@@ -371,7 +371,7 @@ const products = [
   },
   {
     name: 'Daawat Rozana Super Daily Basmati Rice (5kg Bag)',
-    image: 'https://images.unsplash.com/photo-1586201375761-83865001e31c?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=800&auto=format&fit=crop&q=80',
     description: 'Medium slender Basmati rice grains with delightful aroma and rich taste. The perfect affordable Basmati choice for everyday lunch and dinner.',
     brand: 'Daawat',
     category: 'Groceries',
@@ -393,7 +393,7 @@ const products = [
   },
   {
     name: 'Fortune Kachi Ghani Pure Mustard Oil (1L Pouch)',
-    image: 'https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
     description: 'Cold-pressed pungent Sarson ka Tel rich in natural antioxidants and omega-3s. Essential for North and East Indian curries and pickles.',
     brand: 'Fortune',
     category: 'Groceries',
@@ -404,7 +404,7 @@ const products = [
   },
   {
     name: 'Dhara Refined Groundnut Cooking Oil (1 Litre Pouch)',
-    image: 'https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=800&auto=format&fit=crop&q=80',
     description: 'Extracted from fine peanuts with distinct nutty aroma. Enhances taste of traditional Gujarati, Maharashtrian, and South Indian delicacies.',
     brand: 'Dhara',
     category: 'Groceries',
@@ -426,7 +426,7 @@ const products = [
   },
   {
     name: 'Mother Dairy Pure Desi Ghee (1 Litre Pouch)',
-    image: 'https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=800&auto=format&fit=crop&q=80',
     description: 'Rich and aromatic pure milk fat ghee prepared with time-honoured methods. Enhances flavor and provides daily energy for growing children and adults.',
     brand: 'Mother Dairy',
     category: 'Groceries',
@@ -448,7 +448,7 @@ const products = [
   },
   {
     name: 'Tata Sampann Unpolished Moong Dal Dhuli (1kg)',
-    image: 'https://images.unsplash.com/photo-1585994192701-f1a505c817ea?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&auto=format&fit=crop&q=80',
     description: 'Nutritious yellow moong lentils that cook quickly and are easy to digest. Perfect for daily comforting khichdi, dal fry, and moong cheela.',
     brand: 'Tata Sampann',
     category: 'Groceries',
@@ -459,7 +459,7 @@ const products = [
   },
   {
     name: 'Tata Sampann High-Protein Unpolished Chana Dal (1kg)',
-    image: 'https://images.unsplash.com/photo-1585994192701-f1a505c817ea?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=800&auto=format&fit=crop&q=80',
     description: 'Nutrient-dense split Bengal gram with wholesome texture. Delicious for Chana Masala, Lauki Chana Dal, and crispy snacks.',
     brand: 'Tata Sampann',
     category: 'Groceries',
@@ -470,7 +470,7 @@ const products = [
   },
   {
     name: 'Tata Sampann Unpolished Urad Dal Chilka / Split (1kg)',
-    image: 'https://images.unsplash.com/photo-1585994192701-f1a505c817ea?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&auto=format&fit=crop&q=80',
     description: 'Authentic rich flavor for Dal Makhani, bedmi pooris, and traditional Punjabi tempering. High in plant protein and dietary iron.',
     brand: 'Tata Sampann',
     category: 'Groceries',
@@ -481,7 +481,7 @@ const products = [
   },
   {
     name: 'Tata Sampann Unpolished Masoor Malka Dal (Red Lentils - 1kg)',
-    image: 'https://images.unsplash.com/photo-1585994192701-f1a505c817ea?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1505253758473-96b3d5ebcd94?w=800&auto=format&fit=crop&q=80',
     description: 'Quick-cooking split red lentils that create creamy, wholesome comfort dals. Pairs wonderfully with steamed rice and pickle.',
     brand: 'Tata Sampann',
     category: 'Groceries',
@@ -492,7 +492,7 @@ const products = [
   },
   {
     name: 'Tata Sampann Premium Kabuli Chana / White Chickpeas (1kg)',
-    image: 'https://images.unsplash.com/photo-1585994192701-f1a505c817ea?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&auto=format&fit=crop&q=80',
     description: 'Large, uniform white chickpeas with creamy texture when boiled. Must-have for Amritsari Chole Bhature and Mediterranean hummus.',
     brand: 'Tata Sampann',
     category: 'Groceries',
@@ -503,7 +503,7 @@ const products = [
   },
   {
     name: 'Tata Sampann Special Chitra Rajma Red Kidney Beans (1kg)',
-    image: 'https://images.unsplash.com/photo-1585994192701-f1a505c817ea?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=800&auto=format&fit=crop&q=80',
     description: 'Himalayan Chitra rajma that cooks melt-in-mouth tender without losing shape. The undisputed hero of Sunday Rajma Chawal.',
     brand: 'Tata Sampann',
     category: 'Groceries',
@@ -525,7 +525,7 @@ const products = [
   },
   {
     name: 'Tata Salt Lite Low-Sodium Iodised Salt (1kg Pouch)',
-    image: 'https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1508736744034-9273a0328b99?w=800&auto=format&fit=crop&q=80',
     description: 'Specially formulated with 15% less sodium to assist in blood pressure management without compromising on authentic savoury taste.',
     brand: 'Tata Salt',
     category: 'Groceries',
@@ -547,7 +547,7 @@ const products = [
   },
   {
     name: '24 Mantra Organic Pure Jaggery Powder / Gur (1kg)',
-    image: 'https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1607672632458-9eb56696346b?w=800&auto=format&fit=crop&q=80',
     description: 'Chemical-free unrefined natural cane sugar packed with iron and minerals. Wholesome Ayurvedic alternative for tea, porridge, and halwa.',
     brand: '24 Mantra',
     category: 'Groceries',
@@ -558,7 +558,7 @@ const products = [
   },
   {
     name: 'Fortune 100% Chana Dal Fine Besan / Gram Flour (1kg)',
-    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1614735241165-6756e1df61ab?w=800&auto=format&fit=crop&q=80',
     description: 'Made from superior quality unadulterated Bengal gram. Smooth texture ideal for crispy pakoras, kadhi, dhokla, and besan ke laddoo.',
     brand: 'Fortune',
     category: 'Groceries',
@@ -569,7 +569,7 @@ const products = [
   },
   {
     name: 'Rajdhani Thick Poha / Flattened Rice (1kg Pouch)',
-    image: 'https://images.unsplash.com/photo-1586201375761-83865001e31c?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80',
     description: 'Light, nutritious, and easy to digest flattened rice flakes. Ideal for making traditional Maharashtrian Kanda Poha and Indori breakfast.',
     brand: 'Rajdhani',
     category: 'Groceries',
@@ -580,7 +580,7 @@ const products = [
   },
   {
     name: 'Bambino Roasted Wheat Vermicelli / Seviyan (500g)',
-    image: 'https://images.unsplash.com/photo-1612927601601-6638404737ce?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1621996346565-e3d5d6281704?w=800&auto=format&fit=crop&q=80',
     description: 'Pre-roasted durum wheat semolina strands. Ready to cook non-sticky Seviyan Upma, Sheer Khurma, and sweet milk kheer in 10 minutes.',
     brand: 'Bambino',
     category: 'Groceries',
@@ -602,7 +602,7 @@ const products = [
   },
   {
     name: 'Everest Pure Turmeric (Haldi) Powder (200g Pouch)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=800&auto=format&fit=crop&q=80',
     description: 'High-curcumin golden yellow turmeric harvested from prime farms. Imparts vibrant natural color and immunity benefits to everyday food.',
     brand: 'Everest',
     category: 'Groceries',
@@ -613,7 +613,7 @@ const products = [
   },
   {
     name: 'Everest Tikhalal Extra Hot Red Chilli Powder (200g)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1588252303782-cb80119abd6d?w=800&auto=format&fit=crop&q=80',
     description: 'Fine ground selected hot red chillies that give fiery heat and glowing red tone to curries, gravies, and marinades.',
     brand: 'Everest',
     category: 'Groceries',
@@ -624,7 +624,7 @@ const products = [
   },
   {
     name: 'Catch Fragrant Coriander (Dhaniya) Powder (200g)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1600326145359-3a44909d1a39?w=800&auto=format&fit=crop&q=80',
     description: 'Freshly ground coriander seeds that create thick, flavourful curry sauces with mild earthy sweetness.',
     brand: 'Catch',
     category: 'Groceries',
@@ -635,7 +635,7 @@ const products = [
   },
   {
     name: 'Catch Premium Whole Cumin Seeds / Jeera (200g)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=800&auto=format&fit=crop&q=80',
     description: 'Aromatic unadulterated whole cumin seeds. The first essential ingredient into smoking hot ghee or oil for tempering dals and jeera rice.',
     brand: 'Catch',
     category: 'Groceries',
@@ -646,7 +646,7 @@ const products = [
   },
   {
     name: 'Catch Black Mustard Seeds / Rai (200g)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1590736969955-71cc94801759?w=800&auto=format&fit=crop&q=80',
     description: 'Crisp whole black mustard seeds that crackle in hot oil to release sharp nutty pungent flavor into sambar, chutneys, and curries.',
     brand: 'Catch',
     category: 'Groceries',
@@ -657,7 +657,7 @@ const products = [
   },
   {
     name: 'MDH Kitchen King All-in-One Curry Masala (100g)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=800&auto=format&fit=crop&q=80',
     description: 'The master spice blend that turns simple everyday aloo gobhi, paneer, and mixed vegetable dishes into restaurant-style feasts.',
     brand: 'MDH',
     category: 'Groceries',
@@ -668,7 +668,7 @@ const products = [
   },
   {
     name: 'MDH Pav Bhaji Masala (100g Box)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=800&auto=format&fit=crop&q=80',
     description: 'Special Mumbai street blend of dried mango, star anise, red chilli, and spices to prepare rich buttery Pav Bhaji at home.',
     brand: 'MDH',
     category: 'Groceries',
@@ -679,7 +679,7 @@ const products = [
   },
   {
     name: 'MDH Chana Masala Seasoning (100g Box)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&auto=format&fit=crop&q=80',
     description: 'Tangy and spicy spice blend with anardana (pomegranate seed) and black salt for mouth-watering North Indian Pindi Chole.',
     brand: 'MDH',
     category: 'Groceries',
@@ -690,7 +690,7 @@ const products = [
   },
   {
     name: 'Everest Kasuri Methi Dried Fenugreek Leaves (100g Box)',
-    image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&auto=format&fit=crop&q=80',
     description: 'Sun-dried fenugreek leaves harvested from Nagaur, Rajasthan. Rub between palms and sprinkle over butter chicken, paneer butter masala, and parathas.',
     brand: 'Everest',
     category: 'Groceries',
@@ -716,7 +716,7 @@ const products = [
   },
   {
     name: 'Wagh Bakri Premium CTC Leaf Tea Pouch (500g)',
-    image: 'https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1561047029-3000c68339ca?w=800&auto=format&fit=crop&q=80',
     description: 'Renowned for its strong liquor, rich color, and invigorating aroma. Trusted by Indian chai lovers for generations.',
     brand: 'Wagh Bakri',
     category: 'Snacks & Beverages',
@@ -727,7 +727,7 @@ const products = [
   },
   {
     name: 'Brooke Bond Red Label Natural Care Cardamom & Ginger Tea (1kg)',
-    image: 'https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80',
     description: 'Enriched with 5 Ayurvedic ingredients: Ashwagandha, Mulethi, Tulsi, Cardamom, and Ginger. Clinically proven to enhance daily immunity.',
     brand: 'Red Label',
     category: 'Snacks & Beverages',
@@ -738,7 +738,7 @@ const products = [
   },
   {
     name: 'Brooke Bond Taj Mahal Rich Leaf Tea (500g Carton)',
-    image: 'https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=800&auto=format&fit=crop&q=80',
     description: 'Wah Taj! Carefully tasted and blended by master tea tasters for an incomparable balance of strength and delicate tea aroma.',
     brand: 'Taj Mahal',
     category: 'Snacks & Beverages',
@@ -760,7 +760,7 @@ const products = [
   },
   {
     name: 'Bru Instant Coffee-Chicory Mix Granules (200g Pouch)',
-    image: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&auto=format&fit=crop&q=80',
     description: 'Perfect blend of 70% coffee and 30% chicory roasted to perfection. The authentic taste of South Indian traditional filter-style coffee.',
     brand: 'Bru',
     category: 'Snacks & Beverages',
@@ -771,7 +771,7 @@ const products = [
   },
   {
     name: 'Tata Coffee Grand Classic Flavour-Locked Crystals (100g Jar)',
-    image: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1498804103079-a6351b050096?w=800&auto=format&fit=crop&q=80',
     description: 'Infused with flavour-locked decoction crystals that dissolve instantly to release intense coffee notes and frothy richness.',
     brand: 'Tata Coffee',
     category: 'Snacks & Beverages',
@@ -793,7 +793,7 @@ const products = [
   },
   {
     name: 'Maggi Special Masala Spicy 20 Herbs Noodles (Pack of 4)',
-    image: 'https://images.unsplash.com/photo-1612927601601-6638404737ce?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&auto=format&fit=crop&q=80',
     description: 'Loaded with a complex blend of 20 signature spices and herbs for an extra fiery kick for true spice lovers.',
     brand: 'Nestle',
     category: 'Snacks & Beverages',
@@ -804,7 +804,7 @@ const products = [
   },
   {
     name: 'Sunfeast YiPPee! Magic Masala Instant Noodles (Pack of 8)',
-    image: 'https://images.unsplash.com/photo-1612927601601-6638404737ce?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1585032226651-759b368d7246?w=800&auto=format&fit=crop&q=80',
     description: 'Round noodle block that ensures long, non-sticky, slurp-worthy noodles with source of 5 essential nutrients.',
     brand: 'YiPPee!',
     category: 'Snacks & Beverages',
@@ -815,7 +815,7 @@ const products = [
   },
   {
     name: 'Haldiram’s Nagpur Aloo Bhujia Crispy Namkeen (400g Pouch)',
-    image: 'https://images.unsplash.com/photo-1508061252445-5350f31d8cdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop&q=80',
     description: 'Spicy mint-infused potato and gram flour sev fried in pure vegetable oil. The classic crunchy tea-time companion for every Indian home.',
     brand: 'Haldiram',
     category: 'Snacks & Beverages',
@@ -826,7 +826,7 @@ const products = [
   },
   {
     name: 'Haldiram’s Khatta Meetha Tangy Sweet Mixture (400g)',
-    image: 'https://images.unsplash.com/photo-1508061252445-5350f31d8cdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1567620832903-9fc6debc209f?w=800&auto=format&fit=crop&q=80',
     description: 'Crispy blend of chickpea flour noodles, rice flakes, green peas, peanuts, and sago coated with sweet and sour spices.',
     brand: 'Haldiram',
     category: 'Snacks & Beverages',
@@ -837,7 +837,7 @@ const products = [
   },
   {
     name: 'Haldiram’s Bikaneri Bhujia Sev (400g Pouch)',
-    image: 'https://images.unsplash.com/photo-1508061252445-5350f31d8cdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?w=800&auto=format&fit=crop&q=80',
     description: 'Authentic Rajasthani recipe made with moth bean and chickpea flour blended with black pepper, cardamom, and cloves.',
     brand: 'Haldiram',
     category: 'Snacks & Beverages',
@@ -848,7 +848,7 @@ const products = [
   },
   {
     name: 'Haldiram’s Jumbo Salted Roasted Cashews / Kaju (200g)',
-    image: 'https://images.unsplash.com/photo-1508061252445-5350f31d8cdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=800&auto=format&fit=crop&q=80',
     description: 'Premium whole W240 grade cashew nuts roasted in pure ghee and dusted with Himalayan rock salt.',
     brand: 'Haldiram',
     category: 'Snacks & Beverages',
@@ -859,7 +859,7 @@ const products = [
   },
   {
     name: 'Haldiram’s Masala Peanuts / Nut Cracker Namkeen (200g)',
-    image: 'https://images.unsplash.com/photo-1508061252445-5350f31d8cdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1569466896818-335b1bedfcce?w=800&auto=format&fit=crop&q=80',
     description: 'Crispy gram-flour coated spiced whole peanuts. The ultimate crunchy companion with a steaming hot cup of evening tea.',
     brand: 'Haldiram',
     category: 'Snacks & Beverages',
@@ -870,7 +870,7 @@ const products = [
   },
   {
     name: 'Haldiram’s Salted Crunchy Moong Dal Snack (400g Pouch)',
-    image: 'https://images.unsplash.com/photo-1508061252445-5350f31d8cdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=800&auto=format&fit=crop&q=80',
     description: 'Lightly salted, golden fried split yellow moong lentils. Protein-rich guilt-free snacking for all ages.',
     brand: 'Haldiram',
     category: 'Snacks & Beverages',
@@ -892,7 +892,7 @@ const products = [
   },
   {
     name: 'Bikano Traditional Spongy Rasgulla Tin (1kg)',
-    image: 'https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?w=800&auto=format&fit=crop&q=80',
     description: 'Delicate, spongy balls of fresh dairy chenna soaked in light, clear sugar syrup. Classic Bengali celebratory sweet.',
     brand: 'Bikano',
     category: 'Snacks & Beverages',
@@ -903,7 +903,7 @@ const products = [
   },
   {
     name: 'Bikano Royal Desi Ghee Soan Papdi Festive Gift Box (500g)',
-    image: 'https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&auto=format&fit=crop&q=80',
     description: 'Crisp, flaky, melt-in-mouth dessert garnished with slivered almonds and pistachios. Made with 100% pure desi ghee.',
     brand: 'Bikano',
     category: 'Snacks & Beverages',
@@ -925,7 +925,7 @@ const products = [
   },
   {
     name: 'Britannia Good Day Cashew Cookies (Pack of 6)',
-    image: 'https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&auto=format&fit=crop&q=80',
     description: 'Loaded with crunchy roasted cashews and rich dairy butter. Baked to golden perfection with signature smiling grooves.',
     brand: 'Britannia',
     category: 'Snacks & Beverages',
@@ -936,7 +936,7 @@ const products = [
   },
   {
     name: 'Britannia Marie Gold Crisp Tea Biscuits (1kg Mega Pack)',
-    image: 'https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&auto=format&fit=crop&q=80',
     description: 'Crispy, light biscuits enriched with 10 essential vitamins and minerals. The healthy daily tea-time ritual biscuit.',
     brand: 'Britannia',
     category: 'Snacks & Beverages',
@@ -969,7 +969,7 @@ const products = [
   },
   {
     name: 'Cadbury Oreo Original Vanilla Cream Sandwich Cookies (Pack of 3)',
-    image: 'https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=800&auto=format&fit=crop&q=80',
     description: 'Twist, lick, and dunk! Rich chocolate cookies filled with smooth sweet vanilla cream.',
     brand: 'Cadbury',
     category: 'Snacks & Beverages',
@@ -1002,7 +1002,7 @@ const products = [
   },
   {
     name: 'Ching’s Secret Spicy Schezwan Chutney Dip (250g Glass Jar)',
-    image: 'https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1588252303782-cb80119abd6d?w=800&auto=format&fit=crop&q=80',
     description: 'Fiery fusion of red chillies, garlic, and Sichuan pepper. Use as a dip for spring rolls or stir-fry in fried rice and noodles.',
     brand: 'Ching’s',
     category: 'Snacks & Beverages',
@@ -1013,7 +1013,7 @@ const products = [
   },
   {
     name: 'Dabur Honey 100% Pure Squeezy Pack (500g)',
-    image: 'https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=800&auto=format&fit=crop&q=80',
     description: 'NMR tested 100% pure honey sourced from indigenous apiaries. Healthy sweet start with warm lemon water in the morning.',
     brand: 'Dabur',
     category: 'Snacks & Beverages',
@@ -1024,7 +1024,7 @@ const products = [
   },
   {
     name: 'Cadbury Bournvita Chocolate Health Nutrition Drink (1kg Refill)',
-    image: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80',
     description: 'Enriched with Vitamin D, Iron, and Vitamin C to support bone strength, mental performance, and active physical growth in children.',
     brand: 'Bournvita',
     category: 'Snacks & Beverages',
@@ -1035,7 +1035,7 @@ const products = [
   },
   {
     name: 'Horlicks Classic Malt Daily Health Drink Powder (1kg Refill)',
-    image: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1550583724-b2692b85b150?w=800&auto=format&fit=crop&q=80',
     description: 'Clinically proven to make kids taller, stronger, and sharper. Wholesome malted barley extract that mixes smoothly in warm milk.',
     brand: 'Horlicks',
     category: 'Snacks & Beverages',
@@ -1061,7 +1061,7 @@ const products = [
   },
   {
     name: 'Surf Excel Matic Front Load Liquid Detergent (2 Litre Pouch)',
-    image: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=800&auto=format&fit=crop&q=80',
     description: 'Powerful liquid formula dissolves instantly in water without leaving powdery white residue on clothes. Protects machine parts.',
     brand: 'Surf Excel',
     category: 'Daily Essentials',
@@ -1072,7 +1072,7 @@ const products = [
   },
   {
     name: 'Ariel Complete Multi-Care Washing Detergent Powder (2kg)',
-    image: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=800&auto=format&fit=crop&q=80',
     description: 'Deep cleaning enzymes that remove tough turmeric, grease, and tea collar stains in just 1 wash, preserving garment brightness.',
     brand: 'Ariel',
     category: 'Daily Essentials',
@@ -1083,7 +1083,7 @@ const products = [
   },
   {
     name: 'Tide Plus Extra Power Detergent Powder Jasmine & Rose (2kg)',
-    image: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=800&auto=format&fit=crop&q=80',
     description: 'Delivers brilliant whiteness on school uniforms and shirts with intoxicating long-lasting floral fragrance.',
     brand: 'Tide',
     category: 'Daily Essentials',
@@ -1094,7 +1094,7 @@ const products = [
   },
   {
     name: 'Comfort After Wash Morning Fresh Fabric Conditioner (860ml)',
-    image: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=800&auto=format&fit=crop&q=80',
     description: 'Leaves washed laundry delightfully soft, static-free, and smelling fresh all day long with fragrance pearls.',
     brand: 'Comfort',
     category: 'Daily Essentials',
@@ -1105,7 +1105,7 @@ const products = [
   },
   {
     name: 'Vim Dishwash Gel with Real Lemon Juice (750ml Spout Pouch)',
-    image: 'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?w=800&auto=format&fit=crop&q=80',
     description: 'Concentrated degreaser gel that cleans burnt ghee, oil, and curry stains without scratching delicate non-stick cookware or stainless steel utensils.',
     brand: 'Vim',
     category: 'Daily Essentials',
@@ -1116,7 +1116,7 @@ const products = [
   },
   {
     name: 'Vim Anti-Smell Dishwash Bar with Polycoat (300g Pack of 3)',
-    image: 'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1607006314180-a6a382103f56?w=800&auto=format&fit=crop&q=80',
     description: 'Water-resistant coating prevents bar soggy melting. Contains real lime power to remove stubborn curry odours from steel bartan.',
     brand: 'Vim',
     category: 'Daily Essentials',
@@ -1160,7 +1160,7 @@ const products = [
   },
   {
     name: 'Lifebuoy Total 10 Silver Shield Antibacterial Soap (Pack of 4)',
-    image: 'https://images.unsplash.com/photo-1607006314180-a6a382103f56?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?w=800&auto=format&fit=crop&q=80',
     description: 'Advanced Silver Shield formula fights 99.9% germs in 10 seconds. Keeps the whole family protected throughout the day.',
     brand: 'Lifebuoy',
     category: 'Daily Essentials',
@@ -1171,7 +1171,7 @@ const products = [
   },
   {
     name: 'Dove White Beauty Bathing Bar with 1/4th Moisturising Cream (Pack of 4)',
-    image: 'https://images.unsplash.com/photo-1607006314180-a6a382103f56?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80',
     description: 'Mild cleansers that nourish dry skin rather than stripping away natural oils. Leaves skin noticeably soft and glowing.',
     brand: 'Dove',
     category: 'Daily Essentials',
@@ -1248,7 +1248,7 @@ const products = [
   },
   {
     name: 'Dabur Amla Vitamin C Enriched Strong & Long Hair Oil (450ml)',
-    image: 'https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1608248597359-00913c5ce2b4?w=800&auto=format&fit=crop&q=80',
     description: 'Strengthens hair from root to tip, preventing premature greying and hair breakage. Leaves hair lustrous, thick, and healthy.',
     brand: 'Dabur',
     category: 'Daily Essentials',
@@ -1259,7 +1259,7 @@ const products = [
   },
   {
     name: 'Bajaj Almond Drops Non-Sticky Hair Oil with Vitamin E (300ml)',
-    image: 'https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1508061252445-5350f31d8cdd?w=800&auto=format&fit=crop&q=80',
     description: 'Contains 6x Vitamin E for up to 80% reduced hair fall. Featherlight non-sticky texture perfect for daily post-wash hair styling.',
     brand: 'Bajaj',
     category: 'Daily Essentials',
@@ -1303,7 +1303,7 @@ const products = [
   },
   {
     name: 'Lizol Disinfectant Surface & Floor Cleaner Citrus (2 Litre Bottle)',
-    image: 'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=800&auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?w=800&auto=format&fit=crop&q=80',
     description: 'India’s #1 floor cleaner recommended by Indian Medical Association. Kills 99.9% germs, cuts grease, and leaves home smelling citrus fresh.',
     brand: 'Lizol',
     category: 'Daily Essentials',
