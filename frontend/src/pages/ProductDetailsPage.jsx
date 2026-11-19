@@ -83,11 +83,11 @@ const ProductDetailsPage = () => {
       {/* Main Product Showcase */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 bg-white rounded-3xl p-6 sm:p-10 border border-slate-100 shadow-sm">
         {/* Product Image */}
-        <div className="rounded-2xl overflow-hidden bg-slate-50 flex items-center justify-center aspect-square border border-slate-100">
+        <div className="rounded-2xl overflow-hidden bg-white flex items-center justify-center aspect-square border border-slate-100 p-6">
           <img
             src={product.image}
             alt={product.name}
-            className="w-full h-full object-cover object-center"
+            className="w-full h-full object-contain object-center"
           />
         </div>
 

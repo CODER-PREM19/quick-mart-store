@@ -9,11 +9,11 @@ const ProductCard = ({ product }) => {
   return (
     <div className="group bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col overflow-hidden">
       {/* Image Container */}
-      <Link to={`/product/${product._id}`} className="relative block overflow-hidden bg-slate-100 aspect-square">
+      <Link to={`/product/${product._id}`} className="relative block overflow-hidden bg-white aspect-square p-3">
         <img
           src={product.image}
           alt={product.name}
-          className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
+          className="w-full h-full object-contain object-center group-hover:scale-105 transition-transform duration-500"
           loading="lazy"
         />
         <div className="absolute top-3 left-3 bg-white/90 backdrop-blur-md px-2.5 py-1 rounded-full text-xs font-semibold text-slate-700 shadow-sm">
