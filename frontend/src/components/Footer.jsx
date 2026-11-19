@@ -1,4 +1,4 @@
-import { ShoppingBag, Heart } from 'lucide-react';
+import { ShoppingBag } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -15,13 +15,8 @@ const Footer = () => {
               <span className="text-xl font-black text-white">Quick Mart Store</span>
             </Link>
             <p className="text-sm text-slate-400 max-w-sm mb-4 leading-relaxed">
-              Your modern destination for premium electronics, fashion, and lifestyle essentials. Built with modern full-stack MERN technologies.
+              Your trusted destination for fresh groceries, daily household staples, snacks, beverages, and appliances delivered directly to your doorstep.
             </p>
-            <div className="flex items-center gap-1 text-xs text-slate-500">
-              <span>Crafted with</span>
-              <Heart size={14} className="text-rose-500 fill-rose-500 inline" />
-              <span>for MERN stack mastery</span>
-            </div>
           </div>
 
           {/* Quick Links */}
